@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Account Manager</title>
+    <title>Laravel Blog</title>
 </head>
 <body>
     <h1>Hello Fucking World from PHP/Laravel Land!!!</h1>
